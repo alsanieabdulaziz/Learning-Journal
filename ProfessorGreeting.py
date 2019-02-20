@@ -4,5 +4,5 @@ def ThankYou():
     return
 for Professors in Professor:
     print("Hello", Professors, ThankYou)
-print("Best of regards")
+print("Best of regards, \nAbdulaziz Alsanie")
 quit()

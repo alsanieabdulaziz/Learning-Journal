@@ -1,4 +1,4 @@
-Professor=["Dr. Sari","Dr. Koshnoor", "Dr. Yasser"]
+Professor=["Dr. Sari","Dr. Koshnoor", "Dr. Yasser", "Dr. Mohammad"]
 def ThankYou():
     print("Thank you for all your hard work in teaching me the first semester")
     return
